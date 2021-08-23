@@ -2,7 +2,7 @@
 Building an semi automated lawn mower from scratch
 
 ## Ideas and inspiration
- - Remote control lwn mower 
+ - Remote control lawn mower 
  `https://www.youtube.com/watch?v=J_UGripXc0E`
  
  - Fully automated lawn mower
