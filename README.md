@@ -3,10 +3,10 @@ Building an semi automated lawn mower from scratch
 
 ## Ideas and inspiration
  - Remote control lwn mower 
- 'https://www.youtube.com/watch?v=J_UGripXc0E'
+ `https://www.youtube.com/watch?v=J_UGripXc0E`
  
  - Fully automated lawn mower
- 'https://www.youtube.com/watch?v=mt5Qns3VXoI&t=278s'
+ `https://www.youtube.com/watch?v=mt5Qns3VXoI&t=278s`
  
  ## Items needed/purchased
  ### Electronics
